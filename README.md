@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm MaZe 
 ### currently learning ...🌱
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Marze000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Marze000?theme=THEME_NAME radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Marze000/Marze000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

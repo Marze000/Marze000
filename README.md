@@ -1,7 +1,6 @@
 ### Hi there 👋  I'm MaZe 
 - 🔭 I’m currently working on development of games!
-- 📫 How to reach me: WeChate 1309334291...
-
+- 📫 How to reach me: WeChate 1309334291
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Marze000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
